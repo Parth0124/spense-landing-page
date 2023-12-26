@@ -1,0 +1,193 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+}
+
+.first-line
+{
+    text-align: center;
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+#launch-line
+{
+    color: white;
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar
+{
+    display: flex;
+    align-items: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.brand-name
+{
+    margin-right: auto;
+    position: relative;
+}
+
+.navbar-item-1
+{
+    margin: 0 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.navbar-item-2
+{
+    margin: 0 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.navbar-item-3
+{
+    margin: 0 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.navbar-all-items
+{
+    position: absolute;
+    left: 45%;
+}
+
+.login
+{
+    margin: 0 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.Get-started-button
+{
+    background-color: black;
+    height: 50px;
+    border-radius: 5%;
+}
+
+strong
+{
+    color: #B6BBC4;
+}
+
+.box1
+{
+    padding: 2% 10%;
+    background-color: #B6BBC4;
+    position: relative;
+}
+
+.checkmark-img
+{
+    width: 30px;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.checkmark-img-text
+{
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.checkmark-item
+{
+    margin-bottom: 10px;
+}
+
+.hero-img
+{
+    width: 25%;
+    height: 85%;
+    position: absolute;
+    right: 10%;
+}
+
+.info-box-1
+{
+    padding-left: 10%;
+
+}
+
+
+section
+{
+    padding-bottom: 3%;
+    padding-top: 3%;
+    position: relative;
+}
+
+.logo
+{
+    position: absolute;
+    margin: 2% 6%;
+    left: 10%;
+
+}
+
+.company-logo
+{
+    padding: 2%;
+    width: 10%;
+    height: 10%;
+}
+
+.box2
+{
+    margin-top: 100px;
+    background-color:#B6BBC4;
+    margin-left: 17%;
+    margin-right: 20%;
+    position: relative;
+}
+
+.text
+{
+    padding: 5% 5%;
+}
+
+.phone
+{
+    width: 80%;
+    height: 300px;
+    position: absolute;
+    right: 5%;
+    bottom: 0%;
+}
+
+.text-editor-img
+{
+    padding-top: 8%;
+    height: 50%;
+    width: 50%;
+    position: relative;
+}
+
+.text-editor
+{
+    margin-left: 17%;
+    margin-right: 17%;
+}
+
+.text-editor-text
+{
+    position: absolute;
+    right: 20%;
+    bottom: 22%;
+    left: 50%;
+}
+
+
